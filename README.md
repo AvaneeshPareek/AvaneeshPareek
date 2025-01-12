@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AvaneeshPareek
 - 👀 I’m interested in cool projects
-- 🌱 I’m currently learning python and Data Structures
+- 🌱 I’m currently learning Data Engineering and AI
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me pareekavi10@gmail.com
 
